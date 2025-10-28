@@ -1,6 +1,7 @@
 
 # Core Deep Learning Framework
-tensorflow 
+tensorflow
+keras 
 
 # Data Processing & Utilities
 numpy 
